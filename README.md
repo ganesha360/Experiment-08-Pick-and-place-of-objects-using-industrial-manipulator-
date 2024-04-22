@@ -1,5 +1,6 @@
 # Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
-
+## Developed by : GANESH R
+## Reg No : 212222240029
 ## Aim :
       To pick and place a regular shape using two finger gripper on the conveyor belt 
 ## Equipment Required: 
